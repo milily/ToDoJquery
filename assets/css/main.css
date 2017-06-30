@@ -1,0 +1,9 @@
+body{
+    font-family: 'Verdana';
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/bunny_garden_pattern_by_pronouncedyou-d59jb24.jpg);
+}
+.boton_remover{
+	margin-top: 15px;
+}
